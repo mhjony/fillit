@@ -5,6 +5,5 @@ step 1: Check file if the file contains valid tetriminos
 
 RUN:
 
-make
-
-./fillit test.txt
+1. make
+2. ./fillit test.txt
