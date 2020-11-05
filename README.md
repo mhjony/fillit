@@ -1,4 +1,6 @@
-# The purpose of this project is to make the smallest possible square with a given list of tetriminos (tetris?!).
+## The purpose of this project is to make the smallest possible square with a given list of tetriminos (tetris?!).
+For more info about tetriminos you can follow this [link](https://medium.com/@bethnenniger/fillit-solving-for-the-smallest-square-of-tetrominos-c6316004f909) to some fellow 42 students who describe how to tackel fillit in detail:
+
 ## Algortihm for this project: ##
 
 step 1: Check file if contains valid tetros as requirement.
