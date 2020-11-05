@@ -1,3 +1,4 @@
+# The purpose of this project is to make the smallest possible square with a given list of tetriminos (tetris?!).
 ## Algortihm for this project: ##
 
 step 1: Check file if contains valid tetros as requirement.
